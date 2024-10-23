@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/12d24a80-9055-4b05-9aba-7c296cef3f8f/resourceGroups/AIA-API/providers/Microsoft.Web/sites/myproductsite",
+    "appService.deploySubpath": "."
+}

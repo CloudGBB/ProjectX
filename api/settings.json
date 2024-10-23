@@ -1,0 +1,14 @@
+{
+    "IsEncrypted": false,
+    "Values": {
+      "AzureWebJobsStorage": "",
+      "FUNCTIONS_WORKER_RUNTIME": "node",
+      "CONNECTION_STRING": "AccountEndpoint=https://tailwind-traders-28317.documents.azure.com:443/;AccountKey=XnwKvnrVduUp2qaSSJYc1AP1LSAE3NLN8qhvXfCHATYwJkiQ7MCYkidkmltemlE26N9RtmVvhlY4ACDbdppEOA==;",
+      "EmailSender": "johnnotsecure@msxdos.com",
+      "SendGridApiKey": "SG.gkILf-jmTpW0pPvulrsAQg.Y41a5oYCakQAW22T5j23mHBycq94xzVOVF483KBl4asdf",
+      "BlobSASKey": "XuXouuXxRE/LBBpDvc3cp8jS0ufBdKfrjwdrHv1/sb7EiDquK5x002CkMQYBdy33NR+Pvg3oW/i5+AStJSq/vA=="
+    },
+    "Host": {
+      "CORS": "*"
+    }
+  }
